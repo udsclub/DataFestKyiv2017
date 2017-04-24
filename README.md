@@ -1,6 +1,6 @@
 # Data Fest Kyiv 2017
 
-Our schedule is
+All presentations:
 - Sergey Yurgenson – [And Why Did You Make This Prediction, Machine?](https://github.com/udsclub/DataFestKyiv2017/blob/master/Yurgenson-ML_Models_Interpretability.pdf)
 - Sergey Ovcharenko – [Face Recognition and Search at Scale](https://github.com/udsclub/DataFestKyiv2017/blob/master/Ovcharenko-Face_Recognition_scale.pdf)
 - Alex Natekin – [Time-series Analysis in the ML Era: an Overview](https://github.com/udsclub/DataFestKyiv2017/blob/master/Natekin-Time_Series.pdf)
